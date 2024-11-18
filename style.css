@@ -13,9 +13,13 @@ section{
    margin: 20px;
    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+section ol{
 
+margin: 10px 0 10px 0;
+}
 section img{
-    width:100px;
+    width:200px;
+
     
 }
 
