@@ -1,0 +1,25 @@
+*{
+    border-box:none;
+   over-flow: hidden;
+}
+body{
+    background-color:#95ccff;
+ 
+    }
+    
+section{
+   background:#fff;
+   padding: 20px;
+   margin: 20px;
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+section img{
+    width:100px;
+    
+}
+
+
+footer{
+    text-align: center;
+}
