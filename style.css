@@ -9,8 +9,10 @@ body{
     }
     
 section{
+    height:80vh;
+    
    background:#fff;
-   padding: 20px;
+   padding: 100px;
    margin: 20px;
    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
