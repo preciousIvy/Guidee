@@ -4,6 +4,7 @@
 }
 body{
     background-color:#95ccff;
+    font-size: 10px;
  
     }
     
@@ -14,8 +15,7 @@ section{
    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 section ol{
-
-margin: 10px 0 10px 0;
+margin-bottom: 30px;
 }
 section img{
     width:200px;
